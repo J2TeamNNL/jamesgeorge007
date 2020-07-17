@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#170](https://github.com//pikapkg/create-snowpack-app/issues/170) in [pikapkg/create-snowpack-app](https://github.com//pikapkg/create-snowpack-app)
-2. 🗣 Commented on [#72](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/72) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🎉 Merged PR [#1](https://github.com//jamesgeorge007/github-activity-readme/pull/1) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#3845](https://github.com//webpack/webpack.js.org/pull/3845) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
-5. 🗣 Commented on [#7](https://github.com//madlabsinc/teachcode/issues/7) in [madlabsinc/teachcode](https://github.com//madlabsinc/teachcode)
+1. 💪 Opened PR [#179](https://github.com//pikapkg/create-snowpack-app/pull/179) in [pikapkg/create-snowpack-app](https://github.com//pikapkg/create-snowpack-app)
+2. 🗣 Commented on [#170](https://github.com//pikapkg/create-snowpack-app/issues/170) in [pikapkg/create-snowpack-app](https://github.com//pikapkg/create-snowpack-app)
+3. 🗣 Commented on [#72](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/72) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+4. 🎉 Merged PR [#1](https://github.com//jamesgeorge007/github-activity-readme/pull/1) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 💪 Opened PR [#3845](https://github.com//webpack/webpack.js.org/pull/3845) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
 <!--END_SECTION:activity-->
 
 ---
