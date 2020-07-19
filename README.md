@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com//jamesgeorge007/csstox/issues/9) in [jamesgeorge007/csstox](https://github.com//jamesgeorge007/csstox)
-2. 💪 Opened PR [#179](https://github.com//pikapkg/create-snowpack-app/pull/179) in [pikapkg/create-snowpack-app](https://github.com//pikapkg/create-snowpack-app)
-3. 🗣 Commented on [#170](https://github.com//pikapkg/create-snowpack-app/issues/170) in [pikapkg/create-snowpack-app](https://github.com//pikapkg/create-snowpack-app)
-4. 🗣 Commented on [#72](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/72) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. 🎉 Merged PR [#1](https://github.com//jamesgeorge007/github-activity-readme/pull/1) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#10](https://github.com//jamesgeorge007/csstox/pull/10) in [jamesgeorge007/csstox](https://github.com//jamesgeorge007/csstox)
+2. 🗣 Commented on [#9](https://github.com//jamesgeorge007/csstox/issues/9) in [jamesgeorge007/csstox](https://github.com//jamesgeorge007/csstox)
+3. 💪 Opened PR [#179](https://github.com//pikapkg/create-snowpack-app/pull/179) in [pikapkg/create-snowpack-app](https://github.com//pikapkg/create-snowpack-app)
+4. 🗣 Commented on [#170](https://github.com//pikapkg/create-snowpack-app/issues/170) in [pikapkg/create-snowpack-app](https://github.com//pikapkg/create-snowpack-app)
+5. 🗣 Commented on [#72](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/72) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 ---
