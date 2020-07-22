@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1698](https://github.com//webpack/webpack-cli/pull/1698) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-2. ❌ Reopened PR [#1698](https://github.com//webpack/webpack-cli/pull/1698) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-3. 🗣 Commented on [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#2](https://github.com//jamesgeorge007/github-activity-readme/issues/2) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 💪 Opened PR [#1698](https://github.com//webpack/webpack-cli/pull/1698) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+1. 💪 Opened PR [#1282](https://github.com//gridsome/gridsome/pull/1282) in [gridsome/gridsome](https://github.com//gridsome/gridsome)
+2. ❌ Closed PR [#1698](https://github.com//webpack/webpack-cli/pull/1698) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+3. ❌ Reopened PR [#1698](https://github.com//webpack/webpack-cli/pull/1698) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+4. 🗣 Commented on [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#2](https://github.com//jamesgeorge007/github-activity-readme/issues/2) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
