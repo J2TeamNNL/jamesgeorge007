@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#6](https://github.com//jamesgeorge007/github-activity-readme/issues/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#6](https://github.com//jamesgeorge007/github-activity-readme/pull/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#2](https://github.com//jamesgeorge007/github-activity-readme/issues/2) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 💪 Opened PR [#1705](https://github.com//webpack/webpack-cli/pull/1705) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+2. ❗️ Closed issue [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#6](https://github.com//jamesgeorge007/github-activity-readme/issues/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🎉 Merged PR [#6](https://github.com//jamesgeorge007/github-activity-readme/pull/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
