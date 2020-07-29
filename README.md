@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 💪 Opened PR [#1705](https://github.com//webpack/webpack-cli/pull/1705) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-3. ❗️ Closed issue [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#6](https://github.com//jamesgeorge007/github-activity-readme/issues/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#1705](https://github.com//webpack/webpack-cli/pull/1705) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+2. 🗣 Commented on [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 💪 Opened PR [#1705](https://github.com//webpack/webpack-cli/pull/1705) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+4. ❗️ Closed issue [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#3](https://github.com//jamesgeorge007/github-activity-readme/issues/3) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
