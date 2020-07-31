@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1714](https://github.com//webpack/webpack-cli/pull/1714) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-2. ❗️ Opened issue [#18](https://github.com//EddieJaoudeCommunity/support/issues/18) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🎉 Merged PR [#1707](https://github.com//webpack/webpack-cli/pull/1707) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-4. 💪 Opened PR [#1707](https://github.com//webpack/webpack-cli/pull/1707) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-5. 🗣 Commented on [#3880](https://github.com//webpack/webpack.js.org/issues/3880) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+1. 🗣 Commented on [#1714](https://github.com//webpack/webpack-cli/issues/1714) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+2. 💪 Opened PR [#1714](https://github.com//webpack/webpack-cli/pull/1714) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+3. ❗️ Opened issue [#18](https://github.com//EddieJaoudeCommunity/support/issues/18) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 🎉 Merged PR [#1707](https://github.com//webpack/webpack-cli/pull/1707) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+5. 💪 Opened PR [#1707](https://github.com//webpack/webpack-cli/pull/1707) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
