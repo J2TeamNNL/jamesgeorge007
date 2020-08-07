@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#184](https://github.com//madlabsinc/mevn-cli/pull/184) in [madlabsinc/mevn-cli](https://github.com//madlabsinc/mevn-cli)
-2. 💪 Opened PR [#1241](https://github.com//react-native-community/cli/pull/1241) in [react-native-community/cli](https://github.com//react-native-community/cli)
-3. 💪 Opened PR [#5759](https://github.com//vuejs/vue-cli/pull/5759) in [vuejs/vue-cli](https://github.com//vuejs/vue-cli)
-4. 🗣 Commented on [#1694](https://github.com//webpack/webpack-cli/issues/1694) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-5. 🗣 Commented on [#1694](https://github.com//webpack/webpack-cli/issues/1694) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+1. 🎉 Merged PR [#88](https://github.com//madlabsinc/teachcode/pull/88) in [madlabsinc/teachcode](https://github.com//madlabsinc/teachcode)
+2. 💪 Opened PR [#1737](https://github.com//webpack/webpack-cli/pull/1737) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+3. 🗣 Commented on [#89](https://github.com//madlabsinc/teachcode/issues/89) in [madlabsinc/teachcode](https://github.com//madlabsinc/teachcode)
+4. 💪 Opened PR [#184](https://github.com//madlabsinc/mevn-cli/pull/184) in [madlabsinc/mevn-cli](https://github.com//madlabsinc/mevn-cli)
+5. 💪 Opened PR [#1241](https://github.com//react-native-community/cli/pull/1241) in [react-native-community/cli](https://github.com//react-native-community/cli)
 <!--END_SECTION:activity-->
 
 ---
