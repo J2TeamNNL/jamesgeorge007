@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1071](https://github.com//npm/cli/issues/1071) in [npm/cli](https://github.com//npm/cli)
-2. 🎉 Merged PR [#11](https://github.com//jamesgeorge007/csstox/pull/11) in [jamesgeorge007/csstox](https://github.com//jamesgeorge007/csstox)
-3. 🎉 Merged PR [#170](https://github.com//madlabsinc/mevn-cli/pull/170) in [madlabsinc/mevn-cli](https://github.com//madlabsinc/mevn-cli)
-4. 🎉 Merged PR [#1737](https://github.com//webpack/webpack-cli/pull/1737) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-5. 🎉 Merged PR [#91](https://github.com//madlabsinc/teachcode/pull/91) in [madlabsinc/teachcode](https://github.com//madlabsinc/teachcode)
+1. 💪 Opened PR [#1748](https://github.com//webpack/webpack-cli/pull/1748) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+2. 🗣 Commented on [#1071](https://github.com//npm/cli/issues/1071) in [npm/cli](https://github.com//npm/cli)
+3. 🎉 Merged PR [#11](https://github.com//jamesgeorge007/csstox/pull/11) in [jamesgeorge007/csstox](https://github.com//jamesgeorge007/csstox)
+4. 🎉 Merged PR [#170](https://github.com//madlabsinc/mevn-cli/pull/170) in [madlabsinc/mevn-cli](https://github.com//madlabsinc/mevn-cli)
+5. 🎉 Merged PR [#1737](https://github.com//webpack/webpack-cli/pull/1737) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
